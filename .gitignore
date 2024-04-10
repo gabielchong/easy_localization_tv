@@ -629,3 +629,6 @@ example/ios/Runner.xcodeproj/project.pbxproj
 
 # Allow
 !/bin/
+
+# FVM Version Cache
+.fvm/

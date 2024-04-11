@@ -16,7 +16,7 @@ dependencies:
   shared_preferences:
     git:
       url: git@github.com-personal:gabielchong/packages-tv.git
-      ref: v1.0.0
+      ref: v2.2.2+1
       path: packages/shared_preferences/shared_preferences/
   intl: '>=0.17.0-0 <=0.19.0'
   args: ^2.3.1
